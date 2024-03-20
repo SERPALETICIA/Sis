@@ -1,6 +1,11 @@
-# Descrever o funcionamento do retificador
-  prints 
-    Simulação 
-    Prototipagem 
-    PCB
-    3D
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
+![Alt text](image-4.png)
+
+![Alt text](image-5.png)
+
+
